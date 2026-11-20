@@ -1,6 +1,6 @@
 # BIT 2118: Scientific Computing
 
-A comprehensive, production-grade repository implementing, verifying, and documenting **Tasks 2 through 20** for the **BIT 2118: Scientific Computing** curriculum.
+
 
 Each task features:
 1. **Original Implementation**: Complete Python implementation with all PDF OCR syntax errors corrected, headless Matplotlib figure generation (`matplotlib.use('Agg')`), and Section 2 parameter-modification sensitivity experiments.
